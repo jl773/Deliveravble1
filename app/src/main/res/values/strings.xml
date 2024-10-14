@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Deliveravble1</string>
+    <string name="createAccountTitle">Create New Account</string>
+    <string name="createAdminAccountTitle">Create New Admin Account</string>
+    <string name="createLessorAccountTitle">Create New Lessor Account</string>
+    <string name="createRenterAccountTitle">Create New Renter Account</string>
+    <string name="userNameTextField">Username</string>
+    <string name="userNameTextFieldTitle">Please Enter a Username</string>
+    <string name="passwordTextField">Password</string>
+    <string name="passwordTextFieldTitle">Please Enter a Password</string>
+    <string name="adminAccountButtonText">Admin Account</string>
+    <string name="lessorAccountButtonText">Lessor Account</string>
+    <string name="renterAccountButtonText">Renter Account</string>
+    <string name="createAccountButtonText">Create Account</string>
+    <string name="adminLoginPage">Hello, you are logged in as Admin.</string>
+    <string name="lessorLoginPage">Hello, you are logged in as Lessor.</string>
+    <string name="renterLoginPage">Hello, you are logged in as Renter.</string>
+
+</resources>
